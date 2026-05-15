@@ -140,15 +140,11 @@ me.say_hi()
 
 ## 🎯 Currently Exploring
 
-<div align="center">
-
 - 🔭 Building ML pipelines with real-world datasets
 - 🌱 Deepening expertise in LLMs & Prompt Engineering
 - 💡 Exploring Generative AI & RAG-based applications
 - 📊 Advancing data storytelling through interactive dashboards
 - 🤝 Open to collaborations on Data Science & AI projects
-
-</div>
 
 ---
 
