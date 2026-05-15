@@ -196,8 +196,8 @@ jobs:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://linkedin.com/in/mitali-sharma](https://www.linkedin.com/in/mitali-sharma-09ms/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF)]([https://kaggle.com](https://www.kaggle.com/mitalisharma09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://linkedin.com/in/mitali-sharma](https://www.linkedin.com/in/mitali-sharma-09ms/))
+[![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF)]([https://kaggle.com])(https://www.kaggle.com/mitalisharma09)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mitalisharma0907@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/MITALISHARMA09)
 
