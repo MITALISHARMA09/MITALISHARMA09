@@ -78,17 +78,11 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MITALISHARMA09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITALISHARMA09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="180"/>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MITALISHARMA09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&cache_seconds=86400" height="180"/> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITALISHARMA09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6&cache_seconds=86400" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=MITALISHARMA09&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=c9d1d9&sideNums=ffffff&stroke=a78bfa" width="60%"/>
-
-</div>
+<img src="https://streak-stats.demolab.com/?user=MITALISHARMA09&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=c9d1d9&sideNums=ffffff&stroke=a78bfa&cache_seconds=86400" width="60%"/> </div>
 
 ---
 
@@ -118,10 +112,7 @@ me.say_hi()
 ---
 
 ## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MITALISHARMA09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%"/>
-</div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MITALISHARMA09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%"/> </div>
 
 ---
 
